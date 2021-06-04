@@ -41,7 +41,7 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "dotenv-webpack": "6.0.0",
+    "dotenv-webpack": "7.0.3",
     "material-design-icons": "3.0.1",
     "offline-plugin": "5.0.7",
     "poi": "10.2.11",
